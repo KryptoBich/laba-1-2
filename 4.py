@@ -1,5 +1,5 @@
 a = int(input("Enter a:"))
 if a % 2 == 0:
-    print('parne')
+    print('pair')
 else:
-    print('ne parne')
+    print('no pair')
